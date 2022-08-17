@@ -1,0 +1,6 @@
+gnuradio 3.8
+
+librtlsdr
+hackrf libhackrf-dev
+gr-osmosdr
+python3-rpi-gpio
